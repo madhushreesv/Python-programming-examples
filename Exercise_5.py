@@ -1,10 +1,4 @@
-# Name: Madhushree Somendyapnhalli Venkatesh Murthy
-# PRID: SOMEN73309
-# Registration number(s): 2214000
-# University username: ms22749
-# University email address: ms22749@essex.ac.uk
-# Module: CE156 - An Approachable Introduction to Programming
-# Module Supervisor: Dr Mike Sanderson
+# Author: Madhushree 
 
 # Exercise 5
 
